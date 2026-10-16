@@ -50,7 +50,10 @@ class ProfileCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(radiusKartu),
 
         boxShadow: [
-          BoxShadow(color: Colors.black.withOpacity(0.3), blurRadius: 10.0),
+          BoxShadow(
+            color: Colors.black.withValues(alpha: 0.3),
+            blurRadius: 10.0,
+          ),
         ],
       ),
 
