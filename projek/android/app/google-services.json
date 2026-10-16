@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433385957810",
+    "project_id": "pemrogramanmobile-aaf3d",
+    "storage_bucket": "pemrogramanmobile-aaf3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433385957810:android:825698efaec468ef971cab",
+        "android_client_info": {
+          "package_name": "com.example.projek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeqaYEK7BB1goVEDV3jozgHvnkU9TFts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
